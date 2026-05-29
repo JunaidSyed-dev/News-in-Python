@@ -27,7 +27,7 @@ A command-line Python application that fetches and displays news headlines using
 2. Open the project folder:
 
    ```bash
-   cd News_in_python
+   cd News-in-Python
    ```
 
 3. Install required dependencies:
