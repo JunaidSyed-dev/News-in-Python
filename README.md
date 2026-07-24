@@ -51,7 +51,7 @@ News_in_python/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/News_in_python.git
+git clone https://github.com/JunaidSyed-dev/News_in_python.git
 ```
 
 ### 2. Navigate to the project
